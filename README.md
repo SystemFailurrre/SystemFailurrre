@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @SystemFailurrre
 - 👀 I'm interested in OS internals, d'n'b and bigbeat music, and exploring the world of open source software
-- 🌱 I’m currently learning how to live
 - 📫 How to reach me : telegram - @n0s3cr3t
 
 <!---
